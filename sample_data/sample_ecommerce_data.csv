@@ -1,0 +1,153 @@
+Transaction_ID,Date,Category,Region,Payment_Method,Quantity,Unit_Price,Customer_Rating,Total_Amount
+TXN_1000,2024-01-01,Books,North America,Crypto,18,54.73,3.5,985.14
+TXN_1001,2024-01-02,Fitness,Asia Pacific,Direct Debit,13,166.46,3.8,2163.98
+TXN_1002,2024-01-03,Apparel,Europe,Crypto,7,475.53,1.9,3328.71
+TXN_1003,2024-01-04,Fitness,North America,Crypto,4,475.8,1.5,1903.2
+TXN_1004,2024-01-05,Fitness,North America,PayPal,13,290.98,1.1,3782.74
+TXN_1005,2024-01-06,Home & Kitchen,North America,Crypto,1,319.6,,319.6
+TXN_1006,2024-01-07,Apparel,Asia Pacific,Credit Card,8,229.74,,1837.92
+TXN_1007,2024-01-08,Apparel,Europe,Crypto,14,153.67,,2151.38
+TXN_1008,2024-01-09,Apparel,North America,Crypto,16,171.05,,2736.8
+TXN_1009,2024-01-10,Fitness,Latin America,Direct Debit,14,339.53,4.6,4753.42
+TXN_1010,2024-01-11,Books,North America,Credit Card,12,378.66,2.4,4543.92
+TXN_1011,2024-01-12,Apparel,North America,Crypto,19,397.87,3.1,7559.53
+TXN_1012,2024-01-13,Fitness,Asia Pacific,Crypto,15,396.91,4.1,5953.65
+TXN_1013,2024-01-14,Home & Kitchen,Asia Pacific,PayPal,2,54.69,2.6,109.38
+TXN_1014,2024-01-15,Books,Europe,Crypto,2,252.27,3.5,504.54
+TXN_1015,2024-01-16,Home & Kitchen,Latin America,Crypto,19,4500.0,4.4,85500.0
+TXN_1016,2024-01-17,Books,Asia Pacific,PayPal,17,279.27,4.8,4747.59
+TXN_1017,2024-01-18,Fitness,North America,Direct Debit,10,226.35,1.6,2263.5
+TXN_1018,2024-01-19,Electronics,Europe,Crypto,6,444.98,4.7,2669.88
+TXN_1019,2024-01-20,Books,North America,PayPal,15,181.95,3.0,2729.25
+TXN_1020,2024-01-21,Home & Kitchen,North America,,11,67.36,2.0,740.96
+TXN_1021,2024-01-22,Fitness,Asia Pacific,,5,80.07,2.8,400.35
+TXN_1022,2024-01-23,Books,Europe,,1,383.14,4.9,383.14
+TXN_1023,2024-01-24,Electronics,Latin America,Credit Card,8,312.93,3.0,2503.44
+TXN_1024,2024-01-25,Electronics,Latin America,PayPal,12,59.55,2.3,714.6
+TXN_1025,2024-01-26,Apparel,Asia Pacific,Crypto,12,51.21,3.5,614.52
+TXN_1026,2024-01-27,Apparel,Asia Pacific,PayPal,5,353.47,2.0,1767.35
+TXN_1027,2024-01-28,Home & Kitchen,Europe,PayPal,7,45.65,1.3,319.55
+TXN_1028,2024-01-29,Books,Latin America,PayPal,4,412.71,1.5,1650.84
+TXN_1029,2024-01-30,Books,Latin America,PayPal,6,356.06,1.5,2136.36
+TXN_1030,2024-01-31,  Electronics  ,Latin America,Direct Debit,13,49.86,1.6,648.18
+TXN_1031,2024-02-01,Books,North America,Crypto,15,51.57,1.6,773.55
+TXN_1032,2024-02-02,Books,Latin America,Credit Card,3,493.45,3.6,1480.35
+TXN_1033,2024-02-03,Electronics,North America,Credit Card,8,193.39,1.7,1547.12
+TXN_1034,2024-02-04,Apparel,Europe,Crypto,16,191.61,2.4,3065.76
+TXN_1035,2024-02-05,Fitness,North America,Credit Card,13,408.27,4.6,5307.51
+TXN_1036,2024-02-06,Apparel,Europe,Crypto,18,474.15,2.9,8534.7
+TXN_1037,2024-02-07,Fitness,Latin America,Credit Card,10,493.14,3.7,4931.4
+TXN_1038,2024-02-08,Electronics,Latin America,PayPal,19,379.16,1.7,7204.04
+TXN_1039,2024-02-09,Home & Kitchen,Europe,Credit Card,17,194.37,1.8,3304.29
+TXN_1040,2024-02-10,Books,Asia Pacific,Crypto,19,50.92,1.2,967.48
+TXN_1041,2024-02-11,Electronics,Europe,Crypto,5,390.8,1.7,1954.0
+TXN_1042,2024-02-12,Books,Asia Pacific,Crypto,9,283.62,2.1,2552.58
+TXN_1043,2024-02-13,Home & Kitchen,North America,Crypto,12,217.87,1.7,2614.44
+TXN_1044,2024-02-14,Home & Kitchen,North America,Crypto,1,454.11,1.4,454.11
+TXN_1045,2024-02-15,Electronics,North America,Direct Debit,1,64.49,1.5,64.49
+TXN_1046,2024-02-16,Home & Kitchen,Latin America,Direct Debit,15,251.39,2.8,3770.85
+TXN_1047,2024-02-17,Fitness,North America,Credit Card,2,15.56,1.8,31.12
+TXN_1048,2024-02-18,Home & Kitchen,Asia Pacific,Crypto,16,239.64,2.5,3834.24
+TXN_1049,2024-02-19,Books,North America,Credit Card,8,37.59,3.0,300.72
+TXN_1050,2024-02-20,Books,Europe,Crypto,13,68.22,3.8,886.86
+TXN_1051,2024-02-21,Books,Europe,Crypto,1,67.59,1.2,67.59
+TXN_1052,2024-02-22,Books,Latin America,Direct Debit,16,328.11,4.2,5249.76
+TXN_1053,2024-02-23,Fitness,Europe,Direct Debit,7,375.56,3.5,2628.92
+TXN_1054,2024-02-24,Apparel,Asia Pacific,PayPal,5,295.85,1.3,1479.25
+TXN_1055,2024-02-25,Electronics,North America,Direct Debit,3,481.46,4.5,1444.38
+TXN_1056,2024-02-26,Books,Latin America,PayPal,12,193.69,4.7,2324.28
+TXN_1057,2024-02-27,Home & Kitchen,North America,PayPal,16,150.0,1.2,2400.0
+TXN_1058,2024-02-28,Books,North America,PayPal,19,435.61,2.1,8276.59
+TXN_1059,2024-02-29,Home & Kitchen,Asia Pacific,PayPal,5,119.56,4.2,597.8
+TXN_1060,2024-03-01,Home & Kitchen,Europe,PayPal,14,481.98,4.0,6747.72
+TXN_1061,2024-03-02,Books,Europe,Credit Card,5,15.96,1.7,79.8
+TXN_1062,2024-03-03,Fitness,North America,Direct Debit,15,485.24,1.8,7278.6
+TXN_1063,2024-03-04,Home & Kitchen,Latin America,PayPal,17,31.15,2.5,529.55
+TXN_1064,2024-03-05,Home & Kitchen,Europe,Crypto,14,446.66,2.9,6253.24
+TXN_1065,2024-03-06,Books,Latin America,Direct Debit,5,268.57,3.5,1342.85
+TXN_1066,2024-03-07,Home & Kitchen,Europe,Direct Debit,12,496.55,2.5,5958.6
+TXN_1067,2024-03-08,Home & Kitchen,Latin America,PayPal,16,46.16,2.9,738.56
+TXN_1068,2024-03-09,Books,Asia Pacific,Credit Card,16,281.39,4.0,4502.24
+TXN_1069,2024-03-10,Books,Latin America,PayPal,7,484.96,1.1,3394.72
+TXN_1070,2024-03-11,Electronics,Asia Pacific,Credit Card,4,266.32,2.0,1065.28
+TXN_1071,2024-03-12,Fitness,Asia Pacific,Crypto,1,318.41,3.9,318.41
+TXN_1072,2024-03-13,Fitness,Latin America,Direct Debit,5,350.92,4.6,1754.6
+TXN_1073,2024-03-14,Home & Kitchen,Asia Pacific,Crypto,10,232.73,3.0,2327.3
+TXN_1074,2024-03-15,Fitness,North America,Credit Card,5,317.5,3.1,1587.5
+TXN_1075,2024-03-16,Home & Kitchen,Asia Pacific,Credit Card,4,296.31,1.4,1185.24
+TXN_1076,2024-03-17,Electronics,Europe,Crypto,2,451.57,2.8,903.14
+TXN_1077,2024-03-18,Books,Latin America,Credit Card,10,32.27,3.1,322.7
+TXN_1078,2024-03-19,Books,North America,Crypto,19,147.67,2.0,2805.73
+TXN_1079,2024-03-20,Books,Latin America,Direct Debit,1,475.7,2.1,475.7
+TXN_1080,2024-03-21,Fitness,Europe,Crypto,5,446.23,2.5,2231.15
+TXN_1081,2024-03-22,Electronics,Europe,Direct Debit,13,233.27,1.1,3032.51
+TXN_1082,2024-03-23,Fitness,Europe,Crypto,4,313.86,2.3,1255.44
+TXN_1083,2024-03-24,Fitness,Asia Pacific,Credit Card,16,145.92,1.8,2334.72
+TXN_1084,2024-03-25,Electronics,Asia Pacific,Crypto,16,102.18,2.3,1634.88
+TXN_1085,2024-03-26,Electronics,Latin America,Credit Card,2,237.21,1.5,474.42
+TXN_1086,2024-03-27,Electronics,Latin America,Crypto,17,183.14,4.6,3113.38
+TXN_1087,2024-03-28,Electronics,North America,Crypto,12,295.99,3.4,3551.88
+TXN_1088,2024-03-29,Books,North America,PayPal,18,48.09,3.7,865.62
+TXN_1089,2024-03-30,Apparel,Latin America,Credit Card,3,487.45,4.2,1462.35
+TXN_1090,2024-03-31,Apparel,Asia Pacific,PayPal,1,493.24,3.0,493.24
+TXN_1091,2024-04-01,Electronics,Europe,Credit Card,1,352.1,1.3,352.1
+TXN_1092,2024-04-02,Apparel,Latin America,PayPal,19,272.69,3.1,5181.11
+TXN_1093,2024-04-03,Apparel,North America,Direct Debit,11,161.67,3.3,1778.37
+TXN_1094,2024-04-04,Electronics,Asia Pacific,Crypto,5,408.76,4.0,2043.8
+TXN_1095,2024-04-05,Apparel,Latin America,Credit Card,12,345.52,2.7,4146.24
+TXN_1096,2024-04-06,Fitness,Latin America,Credit Card,3,89.68,1.5,269.04
+TXN_1097,2024-04-07,Home & Kitchen,Asia Pacific,Crypto,1,456.35,2.1,456.35
+TXN_1098,2024-04-08,Home & Kitchen,Latin America,Credit Card,1,413.04,2.5,413.04
+TXN_1099,2024-04-09,Electronics,Asia Pacific,Credit Card,8,475.4,3.6,3803.2
+TXN_1100,2024-04-10,Books,Europe,PayPal,10,365.6,3.3,3656.0
+TXN_1101,2024-04-11,Electronics,Asia Pacific,Credit Card,11,310.57,2.4,3416.27
+TXN_1102,2024-04-12,Books,Asia Pacific,Direct Debit,12,214.94,4.9,2579.28
+TXN_1103,2024-04-13,Home & Kitchen,Asia Pacific,Direct Debit,13,467.04,3.4,6071.52
+TXN_1104,2024-04-14,Electronics,Latin America,Crypto,12,434.37,1.9,5212.44
+TXN_1105,2024-04-15,Fitness,Latin America,Credit Card,14,32.16,1.4,450.24
+TXN_1106,2024-04-16,Apparel,Asia Pacific,Crypto,2,22.92,1.6,45.84
+TXN_1107,2024-04-17,Books,Latin America,Direct Debit,19,194.47,2.0,3694.93
+TXN_1108,2024-04-18,Apparel,North America,Credit Card,18,407.17,1.6,7329.06
+TXN_1109,2024-04-19,Apparel,North America,Credit Card,3,493.77,1.7,1481.31
+TXN_1110,2024-04-20,Electronics,Latin America,Crypto,17,83.7,2.1,1422.9
+TXN_1111,2024-04-21,Apparel,Latin America,Direct Debit,8,301.12,1.7,2408.96
+TXN_1112,2024-04-22,Fitness,Asia Pacific,Credit Card,10,196.64,4.6,1966.4
+TXN_1113,2024-04-23,Apparel,Europe,Crypto,2,485.26,1.3,970.52
+TXN_1114,2024-04-24,Electronics,Latin America,Direct Debit,19,422.64,3.1,8030.16
+TXN_1115,2024-04-25,Fitness,North America,Crypto,9,420.78,2.6,3787.02
+TXN_1116,2024-04-26,Home & Kitchen,Asia Pacific,PayPal,7,239.66,4.9,1677.62
+TXN_1117,2024-04-27,Apparel,Latin America,Credit Card,4,213.26,1.4,853.04
+TXN_1118,2024-04-28,Electronics,North America,PayPal,18,143.97,2.6,2591.46
+TXN_1119,2024-04-29,Home & Kitchen,North America,Direct Debit,13,37.62,4.9,489.06
+TXN_1120,2024-04-30,Home & Kitchen,Europe,PayPal,11,433.71,4.5,4770.81
+TXN_1121,2024-05-01,Books,Asia Pacific,PayPal,4,408.32,4.3,1633.28
+TXN_1122,2024-05-02,Fitness,Asia Pacific,Direct Debit,4,499.86,2.0,1999.44
+TXN_1123,2024-05-03,Apparel,Europe,Crypto,10,498.35,1.7,4983.5
+TXN_1124,2024-05-04,Electronics,Europe,PayPal,5,282.16,3.7,1410.8
+TXN_1125,2024-05-05,Books,Asia Pacific,Crypto,9,386.8,4.7,3481.2
+TXN_1126,2024-05-06,Fitness,Asia Pacific,PayPal,3,472.94,3.2,1418.82
+TXN_1127,2024-05-07,Books,Latin America,Crypto,17,426.33,3.3,7247.61
+TXN_1128,2024-05-08,Fitness,Latin America,Direct Debit,3,131.2,2.1,393.6
+TXN_1129,2024-05-09,Fitness,Europe,PayPal,16,230.77,4.1,3692.32
+TXN_1130,2024-05-10,Apparel,Latin America,Direct Debit,4,73.29,1.7,293.16
+TXN_1131,2024-05-11,Fitness,North America,PayPal,18,477.49,2.3,8594.82
+TXN_1132,2024-05-12,Books,Latin America,Direct Debit,17,307.03,2.7,5219.51
+TXN_1133,2024-05-13,Fitness,Latin America,Direct Debit,7,122.03,3.0,854.21
+TXN_1134,2024-05-14,Apparel,North America,PayPal,5,339.13,2.0,1695.65
+TXN_1135,2024-05-15,Apparel,Europe,PayPal,12,312.88,1.5,3754.56
+TXN_1136,2024-05-16,Books,North America,PayPal,17,185.5,3.4,3153.5
+TXN_1137,2024-05-17,Home & Kitchen,Latin America,Credit Card,13,65.64,2.2,853.32
+TXN_1138,2024-05-18,Home & Kitchen,Europe,Crypto,3,339.07,3.3,1017.21
+TXN_1139,2024-05-19,Fitness,Latin America,Credit Card,9,264.95,1.6,2384.55
+TXN_1140,2024-05-20,Electronics,North America,Credit Card,17,388.44,2.9,6603.48
+TXN_1141,2024-05-21,Fitness,North America,Direct Debit,17,264.88,3.1,4502.96
+TXN_1142,2024-05-22,Books,Latin America,PayPal,16,427.57,1.2,6841.12
+TXN_1143,2024-05-23,Books,Asia Pacific,Crypto,13,280.43,2.3,3645.59
+TXN_1144,2024-05-24,Books,Asia Pacific,Direct Debit,19,284.86,1.5,5412.34
+TXN_1145,2024-05-25,Books,North America,Credit Card,17,439.56,1.3,7472.52
+TXN_1146,2024-05-26,Books,North America,PayPal,4,207.71,5.0,830.84
+TXN_1147,2024-05-27,Apparel,Asia Pacific,Direct Debit,12,75.67,2.3,908.04
+TXN_1148,2024-05-28,Home & Kitchen,Asia Pacific,PayPal,9,24.1,4.2,216.9
+TXN_1149,2024-05-29,Books,Latin America,Direct Debit,19,380.02,2.0,7220.38
+TXN_1010,2024-01-11,Books,North America,Credit Card,12,378.66,2.4,4543.92
+TXN_1011,2024-01-12,Apparel,North America,Crypto,19,397.87,3.1,7559.53
